@@ -1,0 +1,49 @@
+body{
+    background-color: gold;
+}
+
+
+.m_container{ display: flex;
+    
+
+
+
+}
+
+
+
+
+.CheeseType{
+    background-color: brown;
+    margin: 20px;
+    font-size: larger;
+    width: 150px;
+    font-style: italic;
+    color: darkturquoise;
+
+
+}
+
+img{
+    height:450px;
+    width: 600px;
+    border-radius: 25%;
+}
+
+
+.Login{
+    font-size: larger;
+}
+
+
+.User{
+    display: flex;
+    justify-content: center;
+    
+    
+
+    
+
+
+}
+
